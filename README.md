@@ -1,7 +1,5 @@
 # neural-network-challenge-2
 
-# neural-network-challenge-2
-
 Predicting employee retention and optimal department assignment
 
 # Employee Attrition Analysis Notebook
@@ -39,9 +37,9 @@ To use the notebook for your analysis:
 
 Make sure you have the necessary Python libraries installed, including Pandas, NumPy, Matplotlib, Scikit-Learn, and any other library that might be used for machine learning and data visualization.
 
-## Contributing
+## Resources
 
-Contributions, suggestions, and improvements are welcome. Feel free to fork the repository, make your changes, and submit a pull request.
+I used the class lectures, class solved solution and ChatGPT to help me solve this challenge.
 
 ## License
 
